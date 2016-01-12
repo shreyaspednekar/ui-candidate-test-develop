@@ -1,7 +1,7 @@
 # packages #
 ##############
 # it's better to unpack this files and commit the raw source
-#git has its own built in compression methods
+#git has its own built in compression methods.
 *.7z
 *.dmg
 *.gz
