@@ -11,7 +11,7 @@
           return revStringArray.join('');
      }
 
-     // Write a function that takes an array of numbers and returns the minimum value
+     // Write a function that takes an array of numbers and returns the minimum value.
      function findMinValue(values) {
           var len = arr.length, min = Infinity;
           while (len--) {
