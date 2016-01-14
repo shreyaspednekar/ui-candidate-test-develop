@@ -13,7 +13,7 @@ function timeS(){
 </head>
 <body onload="javascript:timeS()">
 
-<h1>Unix Time Stamps</h1>
+<h1>Unix Time stamps</h1>
 
 </body>
 </html>
