@@ -1,6 +1,6 @@
      // Example unit test function
      function divide( a, b ) {
-        // To see the test pass, uncomment the following line
+        // To see the test pass, uncomment the following lines
         return a / b;
      }
 
